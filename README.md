@@ -7,6 +7,7 @@ A fetch for the minimalist.
 ## Installation
 
 With your favourite AUR helper, which for me is `yay`:
+
 ```bash
 yay -S tinyfetch
 ```
